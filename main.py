@@ -2,7 +2,7 @@
 from Person import Person
 import picoscope as pc
 def main():
-    obj = Person("Le Quang Phu")
+    obj = Person("John, ahii")
     obj.greet()
 
 if __name__ == "__main__":
